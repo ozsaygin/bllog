@@ -1,0 +1,27 @@
+baseURL = "http://ozsaygin.github.io"
+languageCode = "en-us"
+title = "ozsaygin.github.io"
+theme = "kiss"
+copyright = "&copy; <a href=\"https://github.com/ozsaygin\">Oguz Ozsaygin</a> 2020"
+
+
+[params.social]
+github = "ozsaygin"
+email = "oguzozsaygin@sabanciuniv.edu"
+rss = "index.html"
+
+[params.rss]
+includeContent = true
+authorName = "Oguz Ozsaygin"
+
+[params.social.config]
+platforms = ["github"]
+
+[taxanomies]
+tag = "tags"
+
+katex = true
+
+
+
+
